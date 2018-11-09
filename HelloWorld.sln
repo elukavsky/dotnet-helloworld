@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{1AF993EF-C265-4517-977D-79F2D1E5A06E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0202-IntegerDataTypes", "02-IntegerDataTypes\0202-IntegerDataTypes.csproj", "{22206FD1-C827-419C-AB87-181455ED6217}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1AF993EF-C265-4517-977D-79F2D1E5A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AF993EF-C265-4517-977D-79F2D1E5A06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AF993EF-C265-4517-977D-79F2D1E5A06E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22206FD1-C827-419C-AB87-181455ED6217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22206FD1-C827-419C-AB87-181455ED6217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22206FD1-C827-419C-AB87-181455ED6217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22206FD1-C827-419C-AB87-181455ED6217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
