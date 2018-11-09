@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0204-BooleanDataType", "020
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0205-SingleCharacterDataType", "0205-SingleCharacterDataType\0205-SingleCharacterDataType.csproj", "{5F6E9EC1-28A9-471F-AB43-FA4ED4125BEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206-StringsDataType", "0206-StringsDataType\0206-StringsDataType.csproj", "{8CB56DCC-1264-4D10-8724-7E07154933EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5F6E9EC1-28A9-471F-AB43-FA4ED4125BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6E9EC1-28A9-471F-AB43-FA4ED4125BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6E9EC1-28A9-471F-AB43-FA4ED4125BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB56DCC-1264-4D10-8724-7E07154933EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB56DCC-1264-4D10-8724-7E07154933EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB56DCC-1264-4D10-8724-7E07154933EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB56DCC-1264-4D10-8724-7E07154933EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
