@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206-StringsDataType", "020
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0207-ArrayDataType", "0207-ArrayDataType\0207-ArrayDataType.csproj", "{1D29F7F0-67E6-47CB-9CB6-37F2D7C0B834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0208-StringTricks", "0208-StringTricks\0208-StringTricks.csproj", "{D8489C3F-E0E4-4075-A92D-3EDC03740BC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1D29F7F0-67E6-47CB-9CB6-37F2D7C0B834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D29F7F0-67E6-47CB-9CB6-37F2D7C0B834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D29F7F0-67E6-47CB-9CB6-37F2D7C0B834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8489C3F-E0E4-4075-A92D-3EDC03740BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8489C3F-E0E4-4075-A92D-3EDC03740BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8489C3F-E0E4-4075-A92D-3EDC03740BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8489C3F-E0E4-4075-A92D-3EDC03740BC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
